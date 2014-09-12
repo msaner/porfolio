@@ -1,4 +1,0 @@
-MDD
-===
-
-Full Sail MDD 
